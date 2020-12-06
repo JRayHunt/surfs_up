@@ -16,7 +16,7 @@ The three key differences in weather between June and December are:
 
 ![December_Temps_Stats.png](/Resources/December_Temps_Stats.png)
 
-##Summary
+## Summary
 In addition to analysis of temperatures for June and December, we also developed statistics for precipitation in June and December as shown by the images below.
 Note that, the mean precipitation in June is 0.14 inches, whereas the mean precipitation in December is 0.22 inches. However, the maximum precipitation in December is slightly over 6 inches and in June the maximum is 4.43 inches.
 
